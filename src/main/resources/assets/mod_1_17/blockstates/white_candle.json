@@ -1,0 +1,72 @@
+{
+  "variants": {
+    "candle=1": [
+      {
+        "model": "mod_1_17:block/white_candle"
+      },
+      {
+        "model": "mod_1_17:block/white_candle",
+        "y": 90
+      },
+      {
+        "model": "mod_1_17:block/white_candle",
+        "y": 180
+      },
+      {
+        "model": "mod_1_17:block/white_candle",
+        "y": 270
+      }
+    ],
+    "candle=2": [
+      {
+        "model": "mod_1_17:block/two_white_candle"
+      },
+      {
+        "model": "mod_1_17:block/two_white_candle",
+        "y": 90
+      },
+      {
+        "model": "mod_1_17:block/two_white_candle",
+        "y": 180
+      },
+      {
+        "model": "mod_1_17:block/two_white_candle",
+        "y": 270
+      }
+    ],
+    "candle=3": [
+      {
+        "model": "mod_1_17:block/three_white_candle"
+      },
+      {
+        "model": "mod_1_17:block/three_white_candle",
+        "y": 90
+      },
+      {
+        "model": "mod_1_17:block/three_white_candle",
+        "y": 180
+      },
+      {
+        "model": "mod_1_17:block/three_white_candle",
+        "y": 270
+      }
+    ],
+    "candle=4": [
+      {
+        "model": "mod_1_17:block/four_white_candle"
+      },
+      {
+        "model": "mod_1_17:block/four_white_candle",
+        "y": 90
+      },
+      {
+        "model": "mod_1_17:block/four_white_candle",
+        "y": 180
+      },
+      {
+        "model": "mod_1_17:block/four_white_candle",
+        "y": 270
+      }
+    ]
+  }
+}

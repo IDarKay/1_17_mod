@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "mod_1_17",
+  "version": "${version}",
+  "name": "1_17_mod",
+  "description": "mod fthan creare minecraft 1.17 featurs ",
+  "authors": [
+    "IDarKay"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/mod_1_17/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "server": [
+      "fr.idarkay.mod.server.ServerMod_1_17"
+    ],
+    "client": [
+      "fr.idarkay.mod.client.ClientMod_1_17"
+    ],
+    "main": [
+      "fr.idarkay.mod.Mod_1_17"
+    ]
+  },
+  "mixins": [
+    "1_17_mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.6+build.214",
+    "fabric": "*",
+    "minecraft": "1.16.3"
+  }
+}
