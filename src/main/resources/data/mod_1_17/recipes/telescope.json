@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " GV",
+    "LCG",
+    "GL "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "V": {
+      "item": "minecraft:glass"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "C": {
+      "item": "mod_1_17:amethyst_crystal"
+    }
+  },
+  "result": {
+    "item": "mod_1_17:telescope"
+  }
+}

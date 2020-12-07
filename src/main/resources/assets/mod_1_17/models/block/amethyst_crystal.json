@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "mod_1_17:block/amethyst_crystal"
+  }
+}
